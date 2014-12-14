@@ -1,4 +1,4 @@
 tskup
 =====
 
-Personal task management application
+Personal task management app
